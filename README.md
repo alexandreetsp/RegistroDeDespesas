@@ -1,3 +1,3 @@
 # RegistroDeDespesas
 
-Uso do javaScript para registrar e consultar despesas do mês.
+Registrar e consultar despesas do mês.
